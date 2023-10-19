@@ -9,6 +9,7 @@ Links:
 * [React](https://react.dev/ "React")
 * [CDN Links – React](https://legacy.reactjs.org/docs/cdn-links.html "CDN Links – React")
 * [ReactFacts (Copy) – Figma](https://www.figma.com/file/ejOICBGEwexo5dXt8fzU0a/ReactFacts-(Copy)?type=design&node-id=0-1&mode=design "ReactFacts (Copy) – Figma")
+* [GitHub repo](https://github.com/AdrianSkar/scrimba-react-1)
 
 ---
 
