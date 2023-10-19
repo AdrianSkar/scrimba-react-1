@@ -1,4 +1,13 @@
-# co38a4834950b81f65b4187b7
+# Scrimba Learn React - 1
+
+Repo to keep track of [Scrimba Learn React](https://scrimba.com/learn/learnreact)'s 1st module Build a React info site.
+
+
+
+
+
+
+---
 
 Quick start:
 
